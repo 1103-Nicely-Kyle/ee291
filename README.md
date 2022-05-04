@@ -1,2 +1,2 @@
-# ee291
+# numerical and computational methods
 spring 2022
